@@ -1,0 +1,3 @@
+dependencies=
+output-jar=../target/junit-4.13-SNAPSHOT-shaded.jar
+build-command=echo [junit4-bin] Using precompiled shaded jar!
